@@ -4,7 +4,7 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "test": "test": "jest --config=./jest.config.json --coverage",
+    "test": "mocha",
     "start": "nodemon backend/server"
   },
   "author": "Chris",
