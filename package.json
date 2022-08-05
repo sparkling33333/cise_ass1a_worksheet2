@@ -4,7 +4,7 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "test": "jest --config=./jest.config.json --coverage",
     "start": "nodemon backend/server"
   },
   "author": "Chris",
