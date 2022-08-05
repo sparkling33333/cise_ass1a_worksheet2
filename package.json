@@ -4,7 +4,7 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "test": "npm test",
+    "test": "echo \"No test specified\"",
     "start": "nodemon backend/server"
   },
   "author": "Chris",
